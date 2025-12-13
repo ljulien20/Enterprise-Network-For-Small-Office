@@ -1,7 +1,15 @@
 # Enterprise-Network-For-Small-Office
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Design a network in CISCO packet tracer to connect ACCOUNTS and DELIVERY departments. 
+
+1) Each department should contain at least 2 PCs. Appropriate number of switches and routers should be used in this network.
+
+2) The ISP has given the network address of 192.168.40.0; all interfaces  should be configured with  appropriate IP addresses, subnet mask, and gateways.
+ 
+3) All devices in the network should be connected using  the appropriate cables.
+
+4) Test the connectivity between ACCOUNTS and DELIVERY department PCs; the DELIVERY department should be able to ping the PCs in the ACCOUNTS department.
 <br />
 
 

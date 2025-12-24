@@ -28,7 +28,7 @@ Both departments were cabled in correctly: <br/>
 <img src="https://reasonable-fuchsia-thx1ds7cio-vqd46fow67.edgeone.dev/Screenshot%202025-11-30%20194813.png" height="80%" width="80%" alt="Network enterprise"/>
 <br />
 <br />
-Static addresses were given to each PC and printer in both departments:  <br/>
+Static addresses were given to each PC and printer in both departments: <br/>
 <img src="https://unfortunate-magenta-y6oadwtsh3-fx4d5ig140.edgeone.dev/Screenshot%202025-12-01%20213614.png" height="80%" width="80%" alt="Network enterprise"/>
 <br />
 <br />

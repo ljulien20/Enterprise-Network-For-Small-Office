@@ -36,11 +36,12 @@ Here I configured the router to be enabled with each Ethernet cable going to eac
 <img src="https://i.imgur.com/jfa1icJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-A simple ping test from PC1 to all printers was performed for connectivity:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253184468811927/Screenshot_2025-11-30_194913.png?ex=693ed5aa&is=693d842a&hm=f2eaee48407c4ad1e9791bbeeaa0acce32aee44af97f7e4f3cb2a47e9a19477a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A simple ping test from PC1 to all printers was performed for connectivity: <br/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253184468811927/Screenshot_2025-11-30_194913.png?ex=694c04aa&is=694ab32a&hm=42bace6035560268351783d2097949fa77be62fa9b9a739b0f2c376d52a8968f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />Here I tested connectivity from one department to another pc in another department (PC0 TO PC2):  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445254540109545563/Screenshot_2025-11-30_194739.png?ex=693ed6ed&is=693d856d&hm=0f3e69123fe180ad10eeb598247c4832246ad7700a54ff5f7855501bb21eaaf4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Here I tested connectivity from one department to another pc in another department (PC0 TO PC2): <br/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445255963463520386/Screenshot_2025-12-01_212808.png?ex=694c0741&is=694ab5c1&hm=41979923c156db9611931e57a4ed6d3ed4064e053b742feaba495c24e5c35298" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 I assigned a static IP address range here in the router to receive traffic, and a subnet mask is assigned as well for each department:  <br/>
@@ -52,7 +53,7 @@ This is an example of a static address used for the delivery department (pc2) as
 <br />
  <br />
  This is a full-scale look at all connections on the enterprise network:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png?ex=693ed614&is=693d8494&hm=0804d84d64e4b57d050a5fca6aa93965d694e9caddd35407673a0db1fc5af6cc"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png"/>
 <br />
 <br />
 </p>

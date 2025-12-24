@@ -48,12 +48,12 @@ I assigned a static IP address range here in the router to receive traffic, and 
 <img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445256985133187072/Screenshot_2025-12-01_213317.png?ex=693ed934&is=693d87b4&hm=5f0595a2494f0fc22670ce7619b5d8f6cd92d349a12ea83eced7f790bae32894"/>
 <br />
  <br />
-This is an example of a static address used for the delivery department (pc2) as follows. Each department obtains 2 pcs and a printer:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445257958404522045/Screenshot_2025-12-01_213614.png?ex=693eda1c&is=693d889c&hm=52e2977e2fc4a8e66f0e73620c41a75ce0a11d06cbbf4087c2538f54f9f7227c"/>
+This is an example of a static address used for the delivery department (PC2) as follows. Each department obtains 2 pcs and a printer:  <br/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445257958404522045/Screenshot_2025-12-01_213614.png?ex=694c091c&is=694ab79c&hm=5324f35ee5877e28c1d666adc02b63e5e0fc12f8327dbfe9ccbbc608e003ccfd"/>
 <br />
  <br />
  This is a full-scale look at all connections on the enterprise network:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png?ex=694c0514&is=694ab394&hm=0d6783e892c30c51c445cae9eda17ad9d361ecdc7dfbcdde4d125ed993d882a7"/>
 <br />
 <br />
 </p>

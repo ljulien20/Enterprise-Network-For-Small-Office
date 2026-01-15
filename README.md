@@ -41,7 +41,7 @@ A simple ping test from PC1 to all printers was performed for connectivity: <br/
 <br />
 <br />
 Here I tested connectivity from one department to another pc in another department (PC0 TO PC2): <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445255963463520386/Screenshot_2025-12-01_212808.png?ex=694c0741&is=694ab5c1&hm=41979923c156db9611931e57a4ed6d3ed4064e053b742feaba495c24e5c35298" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445254540109545563/Screenshot_2025-11-30_194739.png?ex=6969afad&is=69685e2d&hm=c7dd02d42bdd69614ea8ee39eb809afec39ba6adda986e5d3908e67971ed72fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 I assigned a static IP address range here in the router to receive traffic, and a subnet mask is assigned as well for each department:  <br/>

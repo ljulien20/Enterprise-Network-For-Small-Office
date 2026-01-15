@@ -49,11 +49,11 @@ I assigned a static IP address range here in the router to receive traffic, and 
 <br />
  <br />
 This is an example of a static address used for the delivery department (PC2) as follows. Each department obtains 2 pcs and a printer:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445257958404522045/Screenshot_2025-12-01_213614.png?ex=694c091c&is=694ab79c&hm=5324f35ee5877e28c1d666adc02b63e5e0fc12f8327dbfe9ccbbc608e003ccfd"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445257958404522045/Screenshot_2025-12-01_213614.png?ex=69690a1c&is=6967b89c&hm=aff06da2ffc2ecd128b647e33f3a596dd7c06bd4c8d5503f1a74d12465a79c7c"/>
 <br />
  <br />
  This is a full-scale look at all connections on the enterprise network:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png?ex=694c0514&is=694ab394&hm=0d6783e892c30c51c445cae9eda17ad9d361ecdc7dfbcdde4d125ed993d882a7"/>
+<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png?ex=6969aed4&is=69685d54&hm=45ba5853a2cdcbcb40e76059586d233770c86cbd9086f6e9c23c7e0574661014"/>
 <br />
 <br />
 </p>

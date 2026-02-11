@@ -36,24 +36,22 @@ Here I configured the router to be enabled with each Ethernet cable going to eac
 <img src="https://i.imgur.com/jfa1icJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-A simple ping test from PC1 to all printers was performed for connectivity: <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253184468811927/Screenshot_2025-11-30_194913.png?ex=694c04aa&is=694ab32a&hm=42bace6035560268351783d2097949fa77be62fa9b9a739b0f2c376d52a8968f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A simple ping test from PC3 to all printers was performed for connectivity: <br/>
+<img width="2515" height="1221" alt="Screenshot 2025-11-30 194913" src="https://github.com/user-attachments/assets/a3911b93-df43-4c76-86c9-91ae00b8ffd4" />
 <br />
 <br />
 Here I tested connectivity from one department to another pc in another department (PC0 TO PC2): <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445254540109545563/Screenshot_2025-11-30_194739.png?ex=6969afad&is=69685e2d&hm=c7dd02d42bdd69614ea8ee39eb809afec39ba6adda986e5d3908e67971ed72fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2483" height="1243" alt="Screenshot 2025-11-30 194739" src="https://github.com/user-attachments/assets/bddbcdb7-c800-47fe-bdfb-aa820fe49ace" />
 <br />
 <br />
 I assigned a static IP address range here in the router to receive traffic, and a subnet mask is assigned as well for each department:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445256985133187072/Screenshot_2025-12-01_213317.png?ex=693ed934&is=693d87b4&hm=5f0595a2494f0fc22670ce7619b5d8f6cd92d349a12ea83eced7f790bae32894"/>
+<img width="2546" height="1382" alt="Screenshot 2025-12-01 213317" src="https://github.com/user-attachments/assets/99cc993a-5534-4416-9b59-c20a589bf665" />
 <br />
  <br />
 This is an example of a static address used for the delivery department (PC2) as follows. Each department obtains 2 pcs and a printer:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445257958404522045/Screenshot_2025-12-01_213614.png?ex=69690a1c&is=6967b89c&hm=aff06da2ffc2ecd128b647e33f3a596dd7c06bd4c8d5503f1a74d12465a79c7c"/>
+<img width="2460" height="1198" alt="Screenshot 2025-12-01 213614" src="https://github.com/user-attachments/assets/ca375740-b25f-47df-a0d8-73fa746e87f4" />
 <br />
  <br />
- This is a full-scale look at all connections on the enterprise network:  <br/>
-<img src="https://cdn.discordapp.com/attachments/1445251151896248323/1445253629840855143/Screenshot_2025-11-30_194813.png?ex=6969aed4&is=69685d54&hm=45ba5853a2cdcbcb40e76059586d233770c86cbd9086f6e9c23c7e0574661014"/>
 <br />
 <br />
 </p>
